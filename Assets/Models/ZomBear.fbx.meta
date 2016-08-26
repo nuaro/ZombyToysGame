@@ -1,5 +1,7 @@
 fileFormatVersion: 2
 guid: c236aa7ad6dcabe47abc7d2cf903ae71
+labels:
+- Character
 ModelImporter:
   serializedVersion: 19
   fileIDToRecycleName:
@@ -89,16 +91,10 @@ ModelImporter:
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
-    resampleRotations: 1
+    resampleCurves: 1
     optimizeGameObjects: 1
     motionNodeName: 
-    animationImportErrors: '
-
-      Imported file ''ZomBear'' conversion failed: Required human bone ''LeftFoot''
-      not found
-
-
-'
+    animationImportErrors: 
     animationImportWarnings: 
     animationRetargetingWarnings: 
     animationDoRetargetingWarnings: 0
